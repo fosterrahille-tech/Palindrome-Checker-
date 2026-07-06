@@ -1,0 +1,6 @@
+This is the Brief Documentation about my palindrome code.
+
+First Input Number Function, next Check Palindrome Function, 
+and Display Result Function. It will ask the user to enter a number, 
+check if it reads the same forward and backward,
+and tell you if the number is a palindrome or not.
